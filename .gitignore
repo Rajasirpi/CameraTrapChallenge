@@ -2,3 +2,4 @@ coherant_sequence/data_ssim/
 custom-yolov7/data/test/
 custom-yolov7/data/train/
 custom-yolov7/data/val/
+custom-yolov7/runs
